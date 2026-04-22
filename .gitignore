@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Next.js build
+next-app/.next/
+next-app/out/
+next-app/build/
+
+# Environment secrets
+.env
+.env.local
+next-app/.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
